@@ -1,0 +1,7 @@
+{
+    "usingComponents": {
+        "cool": "./cool/index",
+        "container": "./container/index",
+        "other": "./other/index"
+    }
+}
